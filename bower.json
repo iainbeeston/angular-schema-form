@@ -1,5 +1,5 @@
 {
-  "name": "angular-schema-form",
+  "name": "iainbeeston-angular-schema-form",
   "main": [
     "dist/schema-form.min.js",
     "dist/bootstrap-decorator.min.js",
